@@ -1,0 +1,16 @@
+{
+  "range": "EmailsProcessados!A1:H1",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "ID",
+      "Assunto",
+      "Remetente",
+      "Data de Recebimento",
+      "Tipo",
+      "Status",
+      "ID da Transação",
+      "Conteúdo"
+    ]
+  ]
+}

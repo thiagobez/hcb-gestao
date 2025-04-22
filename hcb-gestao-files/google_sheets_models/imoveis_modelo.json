@@ -1,0 +1,31 @@
+{
+  "spreadsheetId": "SPREADSHEET_ID",
+  "sheets": [
+    {
+      "name": "Imoveis",
+      "headers": [
+        "ID", "Código", "Endereço", "Área (m²)", "Percentual de Propriedade", 
+        "Situação", "Data de Aquisição", "Valor de Aquisição (R$)", "Valor Atual (R$)", 
+        "IPTU (R$)", "TCRS (R$)", "Condomínio (R$)", "Seguro Incêndio (R$)", "Cobranças Extras"
+      ],
+      "sampleData": [
+        {
+          "ID": "1",
+          "Código": "IM001",
+          "Endereço": "Rua das Flores, 123",
+          "Área (m²)": "120",
+          "Percentual de Propriedade": "100",
+          "Situação": "Locado",
+          "Data de Aquisição": "01/01/2020",
+          "Valor de Aquisição (R$)": "500000",
+          "Valor Atual (R$)": "650000",
+          "IPTU (R$)": "1200",
+          "TCRS (R$)": "300",
+          "Condomínio (R$)": "500",
+          "Seguro Incêndio (R$)": "350",
+          "Cobranças Extras": ""
+        }
+      ]
+    }
+  ]
+}

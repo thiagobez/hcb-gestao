@@ -1,0 +1,22 @@
+{
+  "range": "Imoveis!A1:N1",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "ID",
+      "Código",
+      "Endereço",
+      "Área (m²)",
+      "Percentual de Propriedade",
+      "Situação",
+      "Data de Aquisição",
+      "Valor de Aquisição (R$)",
+      "Valor Atual (R$)",
+      "IPTU (R$)",
+      "TCRS (R$)",
+      "Condomínio (R$)",
+      "Seguro Incêndio (R$)",
+      "Cobranças Extras"
+    ]
+  ]
+}

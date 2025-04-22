@@ -1,0 +1,12 @@
+# Configuração do Netlify
+
+# Configurações de build
+[build]
+  command = "npm run build"
+  publish = "build"
+
+# Redirecionamentos para SPA
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

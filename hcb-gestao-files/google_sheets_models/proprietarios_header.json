@@ -1,0 +1,16 @@
+{
+  "range": "Proprietarios!A1:H1",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "ID",
+      "ID do Imóvel",
+      "Código do Imóvel",
+      "Nome",
+      "CPF/CNPJ",
+      "Percentual",
+      "Dados Bancários",
+      "Contato"
+    ]
+  ]
+}

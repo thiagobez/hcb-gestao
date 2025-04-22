@@ -1,0 +1,18 @@
+{
+  "range": "Transacoes!A1:J1",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "ID",
+      "ID do Imóvel",
+      "Código do Imóvel",
+      "ID do Contrato",
+      "Data",
+      "Tipo",
+      "Categoria",
+      "Valor (R$)",
+      "Descrição",
+      "Status"
+    ]
+  ]
+}

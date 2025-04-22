@@ -1,0 +1,20 @@
+{
+  "range": "Contratos!A1:L1",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "ID",
+      "ID do Imóvel",
+      "Código do Imóvel",
+      "Inquilino",
+      "Valor do Aluguel (R$)",
+      "Data de Início",
+      "Data de Término",
+      "Índice de Reajuste",
+      "Data do Próximo Reajuste",
+      "Status",
+      "Observações",
+      "Anexos"
+    ]
+  ]
+}
